@@ -51,6 +51,42 @@
 <li><RouteLink to="/interview/es6/generator/">你是怎么理解ES6中 Generator的？使用场景？</RouteLink></li>
 <li><RouteLink to="/interview/es6/proxy/">你是怎么理解ES6中Proxy的？使用场景?</RouteLink></li>
 <li><RouteLink to="/interview/es6/module/">你是怎么理解ES6中Module的？使用场景？</RouteLink></li>
+<li><RouteLink to="/interview/es6/decorator/">你是怎么理解ES6中 Decorator 的？使用场景？</RouteLink></li>
+</ul>
+</li>
+<li><b>JavaScript</b>
+<ul>
+<li><RouteLink to="/interview/js/dataType/">说说JavaScript中的数据类型？存储上的差别？</RouteLink></li>
+<li><RouteLink to="/interview/js/methodsofarr/">数组的常用方法有哪些？</RouteLink></li>
+<li><RouteLink to="/interview/js/methodsofstr/">javaScript字符串的常用方法有哪些？</RouteLink></li>
+<li><RouteLink to="/interview/js/typeShiftMechanism/">谈谈 JavaScript 中的类型转换机制</RouteLink></li>
+<li><RouteLink to="/interview/js/==&amp;===/">== 和 ===区别，分别在什么情况使用</RouteLink></li>
+<li><RouteLink to="/interview/js/copy/">深拷贝浅拷贝的区别？如何实现一个深拷贝？</RouteLink></li>
+<li><RouteLink to="/interview/js/closures/">说说你对闭包的理解？闭包使用场景</RouteLink></li>
+<li><RouteLink to="/interview/js/scopechain/">说说你对作用域链的理解</RouteLink></li>
+<li><RouteLink to="/interview/js/prototype/">JavaScript原型，原型链 ? 有什么特点？</RouteLink></li>
+<li><RouteLink to="/interview/js/inheritance/">Javascript如何实现继承？</RouteLink></li>
+<li><RouteLink to="/interview/js/this/">谈谈this对象的理解</RouteLink></li>
+<li><RouteLink to="/interview/js/executionctx/">JavaScript中执行上下文和执行栈是什么？</RouteLink></li>
+<li><RouteLink to="/interview/js/eventModel/">说说JavaScript中的事件模型</RouteLink></li>
+<li><RouteLink to="/interview/js/typeinstanceof/">typeof 与 instanceof 区别</RouteLink></li>
+<li><RouteLink to="/interview/js/eventagent/">解释下什么是事件代理？应用场景？</RouteLink></li>
+<li><RouteLink to="/interview/js/new/">说说new操作符具体干了什么？</RouteLink></li>
+<li><RouteLink to="/interview/js/ajax/">ajax原理是什么？如何实现？</RouteLink></li>
+<li><RouteLink to="/interview/js/bindcallapply/">bind、call、apply 区别？如何实现一个bind?</RouteLink></li>
+<li><RouteLink to="/interview/js/regularExpression/">说说你对正则表达式的理解？应用场景？</RouteLink></li>
+<li><RouteLink to="/interview/js/eventloop/">说说你对事件循环的理解</RouteLink></li>
+<li><RouteLink to="/interview/js/domoperator/">DOM 常见的操作有哪些？</RouteLink></li>
+<li><RouteLink to="/interview/js/bom/">说说你对BOM的理解，常见的BOM对象你了解哪些？</RouteLink></li>
+<li><RouteLink to="/interview/js/tailRecursion/">举例说明你对尾递归的理解，有哪些应用场景</RouteLink></li>
+<li><RouteLink to="/interview/js/memormLeak/">说说 JavaScript 中内存泄漏的几种情况？</RouteLink></li>
+<li><RouteLink to="/interview/js/storage/">Javascript本地存储的方式有哪些？区别及应用场景？</RouteLink></li>
+<li><RouteLink to="/interview/js/funcprogram/">说说你对函数式编程的理解？优缺点？</RouteLink></li>
+<li><RouteLink to="/interview/js/funcatch/">Javascript中如何实现函数缓存？函数缓存有哪些应用场景？</RouteLink></li>
+<li><RouteLink to="/interview/js/lossOfAccuracy/">说说 Javascript 数字精度丢失的问题，如何解决？</RouteLink></li>
+<li><RouteLink to="/interview/js/debouncethrott/">什么是防抖和节流？有什么区别？如何实现？</RouteLink></li>
+<li><RouteLink to="/interview/js/viewablearea/">如何判断一个元素是否在可视区域中？</RouteLink></li>
+<li><RouteLink to="/interview/js/breakpointResumption/">大文件上传如何做断点续传？</RouteLink></li>
 </ul>
 </li>
 <li><b>uniapp</b>
