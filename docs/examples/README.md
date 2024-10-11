@@ -12,3 +12,4 @@ title: 实例
 - [时间转换](/examples/timeConversion/index.md)
 - [class的动态绑定](/examples/bindClass/index.md)
 - [高德地图 js-sdk 的图标搜集](/examples/gdicons/index.md)
+- [文件上传](/examples/uploadFile/index.md)

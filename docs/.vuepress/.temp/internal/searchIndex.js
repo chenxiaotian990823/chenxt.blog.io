@@ -7,21 +7,6 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "实例",
-    "headers": [
-      {
-        "level": 2,
-        "title": "导航",
-        "slug": "导航",
-        "link": "#导航",
-        "children": []
-      }
-    ],
-    "path": "/examples/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
     "title": "少凡",
     "headers": [
       {
@@ -44,6 +29,21 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "实例",
+    "headers": [
+      {
+        "level": 2,
+        "title": "导航",
+        "slug": "导航",
+        "link": "#导航",
+        "children": []
+      }
+    ],
+    "path": "/examples/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "面试",
     "headers": [
       {
@@ -55,42 +55,6 @@ export const searchIndex = [
       }
     ],
     "path": "/interview/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "class 的动态绑定",
-    "headers": [
-      {
-        "level": 2,
-        "title": "对象方法",
-        "slug": "对象方法",
-        "link": "#对象方法",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "数组方法",
-        "slug": "数组方法",
-        "link": "#数组方法",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "数组与三元运算符结合判断选择需要的 class",
-        "slug": "数组与三元运算符结合判断选择需要的-class",
-        "link": "#数组与三元运算符结合判断选择需要的-class",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "数组对象结合动态判断",
-        "slug": "数组对象结合动态判断",
-        "link": "#数组对象结合动态判断",
-        "children": []
-      }
-    ],
-    "path": "/examples/bindClass/",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -180,16 +144,45 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "计算索引处百分比",
-    "headers": [],
-    "path": "/examples/getPercentageAtIndex/",
+    "title": "class 的动态绑定",
+    "headers": [
+      {
+        "level": 2,
+        "title": "对象方法",
+        "slug": "对象方法",
+        "link": "#对象方法",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "数组方法",
+        "slug": "数组方法",
+        "link": "#数组方法",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "数组与三元运算符结合判断选择需要的 class",
+        "slug": "数组与三元运算符结合判断选择需要的-class",
+        "link": "#数组与三元运算符结合判断选择需要的-class",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "数组对象结合动态判断",
+        "slug": "数组对象结合动态判断",
+        "link": "#数组对象结合动态判断",
+        "children": []
+      }
+    ],
+    "path": "/examples/bindClass/",
     "pathLocale": "/",
     "extraFields": []
   },
   {
-    "title": "正弦曲线",
+    "title": "计算索引处百分比",
     "headers": [],
-    "path": "/examples/sinCurve/",
+    "path": "/examples/getPercentageAtIndex/",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -204,6 +197,160 @@ export const searchIndex = [
     "title": "时间转换",
     "headers": [],
     "path": "/examples/timeConversion/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "正弦曲线",
+    "headers": [],
+    "path": "/examples/sinCurve/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "文件上传",
+    "headers": [
+      {
+        "level": 2,
+        "title": "调试接口",
+        "slug": "调试接口",
+        "link": "#调试接口",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "上传文件界面",
+        "slug": "上传文件界面",
+        "link": "#上传文件界面",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "单个文件上传",
+        "slug": "单个文件上传",
+        "link": "#单个文件上传",
+        "children": []
+      }
+    ],
+    "path": "/examples/uploadFile/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "说说你对盒子模型的理解?",
+    "headers": [
+      {
+        "level": 2,
+        "title": "是什么",
+        "slug": "是什么",
+        "link": "#是什么",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "标准盒子模型",
+        "slug": "标准盒子模型",
+        "link": "#标准盒子模型",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "IE 怪异盒子模型",
+        "slug": "ie-怪异盒子模型",
+        "link": "#ie-怪异盒子模型",
+        "children": [
+          {
+            "level": 3,
+            "title": "Box-sizing",
+            "slug": "box-sizing",
+            "link": "#box-sizing",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "参考文献",
+        "slug": "参考文献",
+        "link": "#参考文献",
+        "children": []
+      }
+    ],
+    "path": "/interview/css/boxModel/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "css选择器有哪些？优先级？哪些属性可以继承？",
+    "headers": [
+      {
+        "level": 2,
+        "title": "选择器",
+        "slug": "选择器",
+        "link": "#选择器",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "优先级",
+        "slug": "优先级",
+        "link": "#优先级",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "继承属性",
+        "slug": "继承属性",
+        "link": "#继承属性",
+        "children": [
+          {
+            "level": 3,
+            "title": "无继承的属性",
+            "slug": "无继承的属性",
+            "link": "#无继承的属性",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "参考文献",
+        "slug": "参考文献",
+        "link": "#参考文献",
+        "children": []
+      }
+    ],
+    "path": "/interview/css/cssSelectors/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "说说em/px/rem/vh/vw区别?",
+    "headers": [
+      {
+        "level": 2,
+        "title": "介绍",
+        "slug": "介绍",
+        "link": "#介绍",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "单位",
+        "slug": "单位",
+        "link": "#单位",
+        "children": [
+          {
+            "level": 3,
+            "title": "px",
+            "slug": "px",
+            "link": "#px",
+            "children": []
+          }
+        ]
+      }
+    ],
+    "path": "/interview/css/em_px_rem_vh_vw/",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -1293,7 +1440,58 @@ export const searchIndex = [
   },
   {
     "title": "大文件上传如何做断点续传？",
-    "headers": [],
+    "headers": [
+      {
+        "level": 2,
+        "title": "是什么",
+        "slug": "是什么",
+        "link": "#是什么",
+        "children": [
+          {
+            "level": 3,
+            "title": "分片上传",
+            "slug": "分片上传",
+            "link": "#分片上传",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "断点续传",
+            "slug": "断点续传",
+            "link": "#断点续传",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "实现思路",
+        "slug": "实现思路",
+        "link": "#实现思路",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "使用场景",
+        "slug": "使用场景",
+        "link": "#使用场景",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "小结",
+        "slug": "小结",
+        "link": "#小结",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "参考文献",
+        "slug": "参考文献",
+        "link": "#参考文献",
+        "children": []
+      }
+    ],
     "path": "/interview/js/breakpointResumption/",
     "pathLocale": "/",
     "extraFields": []
@@ -1346,50 +1544,6 @@ export const searchIndex = [
       }
     ],
     "path": "/interview/js/closures/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "深拷贝浅拷贝的区别？如何实现一个深拷贝？",
-    "headers": [
-      {
-        "level": 2,
-        "title": "数据类型存储",
-        "slug": "数据类型存储",
-        "link": "#数据类型存储",
-        "children": [
-          {
-            "level": 3,
-            "title": "浅拷贝",
-            "slug": "浅拷贝",
-            "link": "#浅拷贝",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "深拷贝",
-            "slug": "深拷贝",
-            "link": "#深拷贝",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "区别",
-        "slug": "区别",
-        "link": "#区别",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "小结",
-        "slug": "小结",
-        "link": "#小结",
-        "children": []
-      }
-    ],
-    "path": "/interview/js/copy/",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -1520,6 +1674,50 @@ export const searchIndex = [
       }
     ],
     "path": "/interview/js/dataType/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "深拷贝浅拷贝的区别？如何实现一个深拷贝？",
+    "headers": [
+      {
+        "level": 2,
+        "title": "数据类型存储",
+        "slug": "数据类型存储",
+        "link": "#数据类型存储",
+        "children": [
+          {
+            "level": 3,
+            "title": "浅拷贝",
+            "slug": "浅拷贝",
+            "link": "#浅拷贝",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "深拷贝",
+            "slug": "深拷贝",
+            "link": "#深拷贝",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "区别",
+        "slug": "区别",
+        "link": "#区别",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "小结",
+        "slug": "小结",
+        "link": "#小结",
+        "children": []
+      }
+    ],
+    "path": "/interview/js/copy/",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -1677,50 +1875,6 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "说说JavaScript中的事件模型",
-    "headers": [
-      {
-        "level": 2,
-        "title": "事件与事件流",
-        "slug": "事件与事件流",
-        "link": "#事件与事件流",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "事件模型",
-        "slug": "事件模型",
-        "link": "#事件模型",
-        "children": [
-          {
-            "level": 3,
-            "title": "原始事件模型",
-            "slug": "原始事件模型",
-            "link": "#原始事件模型",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "标准事件模型",
-            "slug": "标准事件模型",
-            "link": "#标准事件模型",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "IE 事件模型",
-            "slug": "ie-事件模型",
-            "link": "#ie-事件模型",
-            "children": []
-          }
-        ]
-      }
-    ],
-    "path": "/interview/js/eventModel/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
     "title": "说说你对事件循环的理解",
     "headers": [
       {
@@ -1776,6 +1930,50 @@ export const searchIndex = [
       }
     ],
     "path": "/interview/js/eventloop/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "说说JavaScript中的事件模型",
+    "headers": [
+      {
+        "level": 2,
+        "title": "事件与事件流",
+        "slug": "事件与事件流",
+        "link": "#事件与事件流",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "事件模型",
+        "slug": "事件模型",
+        "link": "#事件模型",
+        "children": [
+          {
+            "level": 3,
+            "title": "原始事件模型",
+            "slug": "原始事件模型",
+            "link": "#原始事件模型",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "标准事件模型",
+            "slug": "标准事件模型",
+            "link": "#标准事件模型",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "IE 事件模型",
+            "slug": "ie-事件模型",
+            "link": "#ie-事件模型",
+            "children": []
+          }
+        ]
+      }
+    ],
+    "path": "/interview/js/eventModel/",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -2448,6 +2646,65 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "如何实现上拉加载，下拉刷新？",
+    "headers": [
+      {
+        "level": 2,
+        "title": "前言",
+        "slug": "前言",
+        "link": "#前言",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "实现原理",
+        "slug": "实现原理",
+        "link": "#实现原理",
+        "children": [
+          {
+            "level": 3,
+            "title": "上拉加载",
+            "slug": "上拉加载",
+            "link": "#上拉加载",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "下拉刷新",
+            "slug": "下拉刷新",
+            "link": "#下拉刷新",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "案例",
+        "slug": "案例",
+        "link": "#案例",
+        "children": [
+          {
+            "level": 3,
+            "title": "小结",
+            "slug": "小结",
+            "link": "#小结",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "参考文献",
+        "slug": "参考文献",
+        "link": "#参考文献",
+        "children": []
+      }
+    ],
+    "path": "/interview/js/pullupdown/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "说说你对正则表达式的理解？应用场景？",
     "headers": [
       {
@@ -2616,6 +2873,72 @@ export const searchIndex = [
       }
     ],
     "path": "/interview/js/scopechain/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "什么是单点登录？如何实现？",
+    "headers": [
+      {
+        "level": 2,
+        "title": "是什么",
+        "slug": "是什么",
+        "link": "#是什么",
+        "children": [
+          {
+            "level": 3,
+            "title": "举个例子",
+            "slug": "举个例子",
+            "link": "#举个例子",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "如何实现",
+        "slug": "如何实现",
+        "link": "#如何实现",
+        "children": [
+          {
+            "level": 3,
+            "title": "同域名下的单点登录",
+            "slug": "同域名下的单点登录",
+            "link": "#同域名下的单点登录",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "不同域名下的单点登录(一)",
+            "slug": "不同域名下的单点登录-一",
+            "link": "#不同域名下的单点登录-一",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "不同域名下的单点登录(二)",
+            "slug": "不同域名下的单点登录-二",
+            "link": "#不同域名下的单点登录-二",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "流程",
+        "slug": "流程",
+        "link": "#流程",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "参考文献",
+        "slug": "参考文献",
+        "link": "#参考文献",
+        "children": []
+      }
+    ],
+    "path": "/interview/js/singleSign/",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -3004,6 +3327,93 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "web常见的攻击方式有哪些？如何防御？",
+    "headers": [
+      {
+        "level": 2,
+        "title": "是什么",
+        "slug": "是什么",
+        "link": "#是什么",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "XSS",
+        "slug": "xss",
+        "link": "#xss",
+        "children": [
+          {
+            "level": 3,
+            "title": "存储型",
+            "slug": "存储型",
+            "link": "#存储型",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "反射型 XSS",
+            "slug": "反射型-xss",
+            "link": "#反射型-xss",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "DOM 型 XSS",
+            "slug": "dom-型-xss",
+            "link": "#dom-型-xss",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "XSS 的预防",
+            "slug": "xss-的预防",
+            "link": "#xss-的预防",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "CSRF",
+        "slug": "csrf",
+        "link": "#csrf",
+        "children": [
+          {
+            "level": 3,
+            "title": "CSRF的特点",
+            "slug": "csrf的特点",
+            "link": "#csrf的特点",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "CSRF的预防",
+            "slug": "csrf的预防",
+            "link": "#csrf的预防",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "SQL注入",
+        "slug": "sql注入",
+        "link": "#sql注入",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "参考文献",
+        "slug": "参考文献",
+        "link": "#参考文献",
+        "children": []
+      }
+    ],
+    "path": "/interview/js/webAttack/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "uniapp 应用启动onLaunch方法，改为同步，执行后再执行页面加载onLoad方法",
     "headers": [
       {
@@ -3073,6 +3483,42 @@ export const searchIndex = [
       }
     ],
     "path": "/interview/uniapp/onLaunch/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Vue组件之间的通信方式都有哪些？",
+    "headers": [
+      {
+        "level": 2,
+        "title": "组件间通信的分类",
+        "slug": "组件间通信的分类",
+        "link": "#组件间通信的分类",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "组件间通信的方案",
+        "slug": "组件间通信的方案",
+        "link": "#组件间通信的方案",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "小结",
+        "slug": "小结",
+        "link": "#小结",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "参考文献",
+        "slug": "参考文献",
+        "link": "#参考文献",
+        "children": []
+      }
+    ],
+    "path": "/interview/vue/compConmute/",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -3167,42 +3613,6 @@ export const searchIndex = [
       }
     ],
     "path": "/interview/vue/axios/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Vue组件之间的通信方式都有哪些？",
-    "headers": [
-      {
-        "level": 2,
-        "title": "组件间通信的分类",
-        "slug": "组件间通信的分类",
-        "link": "#组件间通信的分类",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "组件间通信的方案",
-        "slug": "组件间通信的方案",
-        "link": "#组件间通信的方案",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "小结",
-        "slug": "小结",
-        "link": "#小结",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "参考文献",
-        "slug": "参考文献",
-        "link": "#参考文献",
-        "children": []
-      }
-    ],
-    "path": "/interview/vue/compConmute/",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -3927,6 +4337,35 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "Vue.observable你有了解过吗？说说看",
+    "headers": [
+      {
+        "level": 2,
+        "title": "Observable 是什么",
+        "slug": "observable-是什么",
+        "link": "#observable-是什么",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "使用场景",
+        "slug": "使用场景",
+        "link": "#使用场景",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "参考文献",
+        "slug": "参考文献",
+        "link": "#参考文献",
+        "children": []
+      }
+    ],
+    "path": "/interview/vue/observable/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "vue要做权限管理该怎么做？如果控制到按钮级别的权限怎么做？",
     "headers": [
       {
@@ -3988,35 +4427,6 @@ export const searchIndex = [
       }
     ],
     "path": "/interview/vue/permManage/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Vue.observable你有了解过吗？说说看",
-    "headers": [
-      {
-        "level": 2,
-        "title": "Observable 是什么",
-        "slug": "observable-是什么",
-        "link": "#observable-是什么",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "使用场景",
-        "slug": "使用场景",
-        "link": "#使用场景",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "参考文献",
-        "slug": "参考文献",
-        "link": "#参考文献",
-        "children": []
-      }
-    ],
-    "path": "/interview/vue/observable/",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -4159,6 +4569,28 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "SSR解决了什么问题？有做过SSR吗？你是怎么做的？",
+    "headers": [
+      {
+        "level": 2,
+        "title": "是什么",
+        "slug": "是什么",
+        "link": "#是什么",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "解决了什么",
+        "slug": "解决了什么",
+        "link": "#解决了什么",
+        "children": []
+      }
+    ],
+    "path": "/interview/vue/ssr/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "双向数据绑定是什么",
     "headers": [
       {
@@ -4192,28 +4624,6 @@ export const searchIndex = [
       }
     ],
     "path": "/interview/vue/twowayBind/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "SSR解决了什么问题？有做过SSR吗？你是怎么做的？",
-    "headers": [
-      {
-        "level": 2,
-        "title": "是什么",
-        "slug": "是什么",
-        "link": "#是什么",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "解决了什么",
-        "slug": "解决了什么",
-        "link": "#解决了什么",
-        "children": []
-      }
-    ],
-    "path": "/interview/vue/ssr/",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -4272,123 +4682,6 @@ export const searchIndex = [
       }
     ],
     "path": "/interview/vue/virtualDOM/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "组合函数",
-    "headers": [
-      {
-        "level": 2,
-        "title": "例子",
-        "slug": "例子",
-        "link": "#例子",
-        "children": [
-          {
-            "level": 3,
-            "title": "解释",
-            "slug": "解释",
-            "link": "#解释",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "onMounted 和 onUnmounted 不是 vue 的生命周期吗？为嘛可以用到这里",
-            "slug": "onmounted-和-onunmounted-不是-vue-的生命周期吗-为嘛可以用到这里",
-            "link": "#onmounted-和-onunmounted-不是-vue-的生命周期吗-为嘛可以用到这里",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "其他例子",
-        "slug": "其他例子",
-        "link": "#其他例子",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "我如果要做一个图片懒加载，需要怎么做",
-        "slug": "我如果要做一个图片懒加载-需要怎么做",
-        "link": "#我如果要做一个图片懒加载-需要怎么做",
-        "children": [
-          {
-            "level": 3,
-            "title": "题外话，可以用自定义指令实现懒加载吗？",
-            "slug": "题外话-可以用自定义指令实现懒加载吗",
-            "link": "#题外话-可以用自定义指令实现懒加载吗",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "那这些组合复用函数，一般放在哪个目录下呢",
-        "slug": "那这些组合复用函数-一般放在哪个目录下呢",
-        "link": "#那这些组合复用函数-一般放在哪个目录下呢",
-        "children": []
-      }
-    ],
-    "path": "/interview/vue3/compFunc/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "动态给vue的data添加一个新的属性时会发生什么？怎样解决？",
-    "headers": [
-      {
-        "level": 2,
-        "title": "原理分析",
-        "slug": "原理分析",
-        "link": "#原理分析",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "解决方案",
-        "slug": "解决方案",
-        "link": "#解决方案",
-        "children": [
-          {
-            "level": 3,
-            "title": "Vue.set()",
-            "slug": "vue-set",
-            "link": "#vue-set",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "Object.assign()",
-            "slug": "object-assign",
-            "link": "#object-assign",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "$forceUpdate",
-            "slug": "forceupdate",
-            "link": "#forceupdate",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "小结",
-        "slug": "小结",
-        "link": "#小结",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "参考文献",
-        "slug": "参考文献",
-        "link": "#参考文献",
-        "children": []
-      }
-    ],
-    "path": "/interview/vue/vueset/",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -4461,6 +4754,123 @@ export const searchIndex = [
       }
     ],
     "path": "/interview/vue/vuekey/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "动态给vue的data添加一个新的属性时会发生什么？怎样解决？",
+    "headers": [
+      {
+        "level": 2,
+        "title": "原理分析",
+        "slug": "原理分析",
+        "link": "#原理分析",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "解决方案",
+        "slug": "解决方案",
+        "link": "#解决方案",
+        "children": [
+          {
+            "level": 3,
+            "title": "Vue.set()",
+            "slug": "vue-set",
+            "link": "#vue-set",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "Object.assign()",
+            "slug": "object-assign",
+            "link": "#object-assign",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "$forceUpdate",
+            "slug": "forceupdate",
+            "link": "#forceupdate",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "小结",
+        "slug": "小结",
+        "link": "#小结",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "参考文献",
+        "slug": "参考文献",
+        "link": "#参考文献",
+        "children": []
+      }
+    ],
+    "path": "/interview/vue/vueset/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "组合函数",
+    "headers": [
+      {
+        "level": 2,
+        "title": "例子",
+        "slug": "例子",
+        "link": "#例子",
+        "children": [
+          {
+            "level": 3,
+            "title": "解释",
+            "slug": "解释",
+            "link": "#解释",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "onMounted 和 onUnmounted 不是 vue 的生命周期吗？为嘛可以用到这里",
+            "slug": "onmounted-和-onunmounted-不是-vue-的生命周期吗-为嘛可以用到这里",
+            "link": "#onmounted-和-onunmounted-不是-vue-的生命周期吗-为嘛可以用到这里",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "其他例子",
+        "slug": "其他例子",
+        "link": "#其他例子",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "我如果要做一个图片懒加载，需要怎么做",
+        "slug": "我如果要做一个图片懒加载-需要怎么做",
+        "link": "#我如果要做一个图片懒加载-需要怎么做",
+        "children": [
+          {
+            "level": 3,
+            "title": "题外话，可以用自定义指令实现懒加载吗？",
+            "slug": "题外话-可以用自定义指令实现懒加载吗",
+            "link": "#题外话-可以用自定义指令实现懒加载吗",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "那这些组合复用函数，一般放在哪个目录下呢",
+        "slug": "那这些组合复用函数-一般放在哪个目录下呢",
+        "link": "#那这些组合复用函数-一般放在哪个目录下呢",
+        "children": []
+      }
+    ],
+    "path": "/interview/vue3/compFunc/",
     "pathLocale": "/",
     "extraFields": []
   },

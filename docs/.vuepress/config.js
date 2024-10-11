@@ -36,6 +36,7 @@ export default defineUserConfig({
             '/examples/timeConversion/index.md',
             '/examples/bindClass/index.md',
             '/examples/gdicons/index.md',
+            '/examples/uploadFile/index.md',
           ],
         },
       ],
@@ -135,6 +136,18 @@ export default defineUserConfig({
             '/interview/js/debouncethrott/index.md',
             '/interview/js/viewablearea/index.md',
             '/interview/js/breakpointResumption/index.md',
+            '/interview/js/pullupdown/index.md',
+            '/interview/js/singleSign/index.md',
+            '/interview/js/webAttack/index.md',
+          ]
+        },
+        {
+          text: 'CSS',
+          collapsible: false,
+          children: [
+            '/interview/css/boxModel/index.md',
+            '/interview/css/cssSelectors/index.md',
+            '/interview/css/em&px&rem&vh&vw/index.md',
           ]
         },
         {
